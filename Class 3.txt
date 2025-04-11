@@ -1,3 +1,0 @@
-<a></a> - Anchor.
-href="mailto " Direct option to send you in mail.
-<br /> help in separate a word in 2 line.
